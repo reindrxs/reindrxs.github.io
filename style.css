@@ -1,1 +1,19 @@
 
+.portafolio{
+    font-size: 50px;
+    color: rgb(79, 131, 168);
+    font-style: oblique;
+    background: #aeeeec;
+background: radial-gradient(circle, rgba(174, 238, 236, 1) 0%, rgba(255, 255, 255, 1) 100%);
+}
+
+.box{
+    color:rgb(109, 208, 221) ;
+}
+
+.menu{
+    background-color: rgb(255, 255, 255);
+}
+.menu, .menu a {
+    color: rgb(151, 233, 233) !important;
+}
